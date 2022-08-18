@@ -1,0 +1,4 @@
+﻿  源.cpp
+D:\cpp_datas\_testProject2\源.cpp(34,17): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+D:\cpp_datas\_testProject2\源.cpp(35,9): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+  _testProject2.vcxproj -> D:\cpp_datas\_testProject2\x64\Debug\_testProject2.exe

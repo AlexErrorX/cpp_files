@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1180：分数线划定", "1180：分数线划定.vcxproj", "{06FD6379-953A-46E2-B7B5-B6FEA83C0061}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06FD6379-953A-46E2-B7B5-B6FEA83C0061}.Debug|x64.ActiveCfg = Debug|x64
+		{06FD6379-953A-46E2-B7B5-B6FEA83C0061}.Debug|x64.Build.0 = Debug|x64
+		{06FD6379-953A-46E2-B7B5-B6FEA83C0061}.Debug|x86.ActiveCfg = Debug|Win32
+		{06FD6379-953A-46E2-B7B5-B6FEA83C0061}.Debug|x86.Build.0 = Debug|Win32
+		{06FD6379-953A-46E2-B7B5-B6FEA83C0061}.Release|x64.ActiveCfg = Release|x64
+		{06FD6379-953A-46E2-B7B5-B6FEA83C0061}.Release|x64.Build.0 = Release|x64
+		{06FD6379-953A-46E2-B7B5-B6FEA83C0061}.Release|x86.ActiveCfg = Release|Win32
+		{06FD6379-953A-46E2-B7B5-B6FEA83C0061}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12483CF6-B70B-4FEE-89B7-22659BE4E7C0}
+	EndGlobalSection
+EndGlobal

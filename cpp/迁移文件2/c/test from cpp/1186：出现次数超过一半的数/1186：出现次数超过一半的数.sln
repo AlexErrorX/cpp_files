@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1186：出现次数超过一半的数", "1186：出现次数超过一半的数.vcxproj", "{77F6DCD1-7201-4ABF-AB4A-3B05A715A09A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77F6DCD1-7201-4ABF-AB4A-3B05A715A09A}.Debug|x64.ActiveCfg = Debug|x64
+		{77F6DCD1-7201-4ABF-AB4A-3B05A715A09A}.Debug|x64.Build.0 = Debug|x64
+		{77F6DCD1-7201-4ABF-AB4A-3B05A715A09A}.Debug|x86.ActiveCfg = Debug|Win32
+		{77F6DCD1-7201-4ABF-AB4A-3B05A715A09A}.Debug|x86.Build.0 = Debug|Win32
+		{77F6DCD1-7201-4ABF-AB4A-3B05A715A09A}.Release|x64.ActiveCfg = Release|x64
+		{77F6DCD1-7201-4ABF-AB4A-3B05A715A09A}.Release|x64.Build.0 = Release|x64
+		{77F6DCD1-7201-4ABF-AB4A-3B05A715A09A}.Release|x86.ActiveCfg = Release|Win32
+		{77F6DCD1-7201-4ABF-AB4A-3B05A715A09A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {551F43A7-5B61-4F7A-8B49-A36BAF5B0DE0}
+	EndGlobalSection
+EndGlobal

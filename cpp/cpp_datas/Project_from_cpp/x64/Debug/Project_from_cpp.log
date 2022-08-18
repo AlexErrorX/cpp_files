@@ -1,0 +1,5 @@
+﻿  1136：密码翻译.cpp
+  智障管理系统.cpp
+D:\cpp_datas\Project_from_cpp\智障管理系统.cpp(79,44): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  Project_from_cpp.vcxproj -> D:\cpp_datas\Project_from_cpp\x64\Debug\Project_from_cpp.exe

@@ -1,0 +1,5 @@
+﻿  源.cpp
+D:\test from cpp\1178：成绩排序\源.cpp(11,22): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\test from cpp\1178：成绩排序\源.cpp(12,22): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\test from cpp\1178：成绩排序\源.cpp(27): warning C4715: “compare”: 不是所有的控件路径都返回值
+  1178：成绩排序.vcxproj -> D:\test from cpp\1178：成绩排序\x64\Debug\1178：成绩排序.exe

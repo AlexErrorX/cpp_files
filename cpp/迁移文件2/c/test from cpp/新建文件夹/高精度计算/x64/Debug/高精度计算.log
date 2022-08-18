@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\test from cpp\高精度计算\main.cpp(6,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\test from cpp\高精度计算\main.cpp(7,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  高精度计算.vcxproj -> D:\test from cpp\高精度计算\x64\Debug\高精度计算.exe

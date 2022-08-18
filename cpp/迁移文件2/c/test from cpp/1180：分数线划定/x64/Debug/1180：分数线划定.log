@@ -1,0 +1,3 @@
+﻿  源.cpp
+D:\test from cpp\1180：分数线划定\源.cpp(42,7): warning C4244: “*=”: 从“double”转换到“int”，可能丢失数据
+  1180：分数线划定.vcxproj -> D:\test from cpp\1180：分数线划定\x64\Debug\1180：分数线划定.exe
